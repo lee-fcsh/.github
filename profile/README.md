@@ -2,18 +2,28 @@
 *This repository aims to develop experiments in the area of Experimental and Behavioral Economics.*
 
 ## Getting Started :flight\_departure:
-*You will find: experiments developed in experimental platforms such as [O-Tree](https://otree.readthedocs.io/en/latest/index.html), databases of experimental subjects.*
+*You will find: experiments developed in experimental platforms such as [O-Tree](https://otree.readthedocs.io/en/latest/index.html), databases of experimental subjects.You can learn more about the laboratory on the [website](http://lee.fcsh.espol.edu.ec/contactos)*
 
 ## Software build :desktop\_computer:
 *The tools used are:*
+| Technologies | Version | Description |
+| --- | --- | --- |
+| [oTree](https://otree.readthedocs.io/en/latest/index.html) | `5.8.2`| The web framework used for the development of economics experiments |
+| [Python](https://www.python.org/) | `3.9.6`| Dependency manager. |
+| [Pylint](https://pylint.pycqa.org/en/latest/) | no matter | A static code analyser. |
+| [Heroku](https://www.heroku.com/) | no matter |Cloud to deply the server. |
+| [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScrip)  | no matter |Language for web calculations or simple processes. |
 
-* [oTree](https://otree.readthedocs.io/en/latest/index.html) - `5.8.2` -The web framework used for the development of economics experiments
-* [Python](https://www.python.org/) -`3.9.6`- Dependency manager.
-* [Pylint](https://pylint.pycqa.org/en/latest/) - A static code analyser. 
-* [Heroku](https://www.heroku.com/) - Cloud to deply the server. 
-* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScrip) - Language for web calculations or simple processes.
+
+## LEE representatives :handshake:
+
+* :woman_office_worker: Director: **Lauren A. Rhodes** - *Ph.D.* - [email](rhodes@espol.edu.ec)
+* :man_office_worker: Coordinators:
+   * **José Gabriel Castillo** - *Ph.D.* - [email](jcastil@espol.edu.ec)
+   * **José Luis Vázquez de Castro** - *M.Sc.* - [email](jvazquez@espol.edu.ec)
 
 ## Contributors :star2:
+
 * :technologist: **Alex Córdova Balón** - *Senior Developer* - [alealcor](https://github.com/alealcor)
 * :woman_technologist: **Tatiana Yepez Vera** - *junior developer* - [tati-18](https://github.com/tati-18)
 * :technologist: **Manuel Loor Macías** - *junior developer* - [maalloor](https://github.com/maalloor)
@@ -27,3 +37,10 @@ This project is licensed under the License - see the LICENSE.md file for details
 * Inspiration :rainbow:
 * We recommend a cup of coffee :coffee:
 * etc
+
+### Some examples of sessions at Otree
+* MyPublicGood 
+![Player 1](https://github.com/tati-18/.github/blob/master/profile/ImgenReadme/mypublicgood1.png)
+![Player 2](https://github.com/tati-18/.github/blob/master/profile/ImgenReadme/mypublic2.png)
+![Player 3](https://github.com/tati-18/.github/blob/master/profile/ImgenReadme/mypublic3.png)
+![Results](https://github.com/tati-18/.github/blob/master/profile/ImgenReadme/resultsr.png)
