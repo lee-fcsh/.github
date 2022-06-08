@@ -40,7 +40,7 @@ This project is licensed under the License - see the LICENSE.md file for details
 
 ### Some examples of sessions at Otree
 * MyPublicGood 
-![Player 1](https://github.com/tati-18/.github/blob/master/profile/ImgenReadme/mypublicgood1.png)
-![Player 2](https://github.com/tati-18/.github/blob/master/profile/ImgenReadme/mypublic2.png)
-![Player 3](https://github.com/tati-18/.github/blob/master/profile/ImgenReadme/mypublic3.png)
-![Results](https://github.com/tati-18/.github/blob/master/profile/ImgenReadme/resultsr.png)
+![Player 1](https://github.com/lee-fcsh/.github/blob/borradorReadme/profile/ImgenReadme/mypublicgood1.png)
+![Player 2](https://github.com/lee-fcsh/.github/blob/borradorReadme/profile/ImgenReadme/mypublic2.png)
+![Player 3](https://github.com/lee-fcsh/.github/blob/borradorReadme/profile/ImgenReadme/mypublic3.png)
+![Results](https://github.com/lee-fcsh/.github/blob/borradorReadme/profile/ImgenReadme/resultsr.png)
