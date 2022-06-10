@@ -13,7 +13,7 @@ democracia:
 "C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" -kiosk http://200.126.3.240:8000/join/lo4f58jkbo/
 
 Para sesiones clases:
-"C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" -kiosk http://200.126.3.240:8000/join/41qb5ekzac/
+"C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" -kiosk http://200.126.3.230:8000/join/r4x9ocgggm/
 
 "C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" https://social-nudges-behavior.herokuapp.com/join/bokubinu
 
