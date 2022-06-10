@@ -1,0 +1,102 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+# oTree:
+
+######### grupal:
+
+leviatan:
+
+"C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" -kiosk http://200.126.3.240:8000/join/05hgjyzt0l/
+
+democracia:
+
+"C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" -kiosk http://200.126.3.240:8000/join/lo4f58jkbo/
+
+Para sesiones clases:
+"C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" -kiosk http://200.126.3.240:8000/join/41qb5ekzac/
+
+"C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" https://social-nudges-behavior.herokuapp.com/join/bokubinu
+
+
+
+######### recuperar sesión individual (pegar código de participante)
+"C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" -kiosk http://200.126.3.240:8000/InitializeParticipant/05c1vvnf
+
+
+6789
+
+
+######### cerrar navegador chrome remotamente
+
+taskkill /IM chrome.exe
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+# Presentar Página 
+
+"C:\Users\Lab-Experimental\Opera\launcher.exe" http://lee.fcsh.espol.edu.ec
+
+#Computadora Princial
+"C:\Users\Administrador\Opera\launcher.exe" http://lee.fcsh.espol.edu.ec
+"C:\Users\Administrador\chrome-portable\GoogleChromePortable.exe" -kiosk http://200.126.3.240:8000/join/vyszmeb7ln/
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+# Z-Tree
+
+######### Lanzar zleaf
+
+Version 3.4.2
+
+"C:\Users\Lab-Experimental\leaf\run_zleaf342.bat"
+
+######### Cerrar zleaf
+
+taskkill /IM zleaf3.4.2.exe
+
+
+######### Lanzar zleaf
+
+Version 3.6.7
+
+"C:\Users\Lab-Experimental\leaf\run_zleaf367.bat"
+
+######### Cerrar zleaf
+
+taskkill /IM zleaf3.6.7.exe
+
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+# gitlab
+leelabec
+lee2019git
+
+heroku
+Lee2019_git
+
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+# Asistentes laboratorio	
+
+1011
+
+1012
+
+# copiar archivo de descarga
+xcopy "C:\Users\Lab-Experimental\chrome-portable\App\Chrome-bin\59.0.3071.115\FondoPantallaLEEV3 (1).png" C:\Users\Public\Pictures\FondoPantallaLEEV3.png
+
+# abrir buscar actualizaciones
+explorer ms-settings:windowsupdate
+
+"C:\Users\Lab-Experimental\chrome-portable\GoogleChromePortable.exe" http://lee.fcsh.espol.edu.ec
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
