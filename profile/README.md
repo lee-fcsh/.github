@@ -1,8 +1,6 @@
 # WELCOME TO LEE FCSH  :technologist: :woman_technologist:
 *This repository aims to develop experiments in the area of Experimental and Behavioral Economics.*
 
-![LEE](http://lee.fcsh.espol.edu.ec/sites/all/themes/venture_theme/images/slide-image-1.jpg)
-
 ## Getting Started :flight\_departure:
 *You will find: experiments developed in experimental platforms such as [O-Tree](https://otree.readthedocs.io/en/latest/index.html), databases of experimental subjects.You can learn more about the laboratory on the [website](http://lee.fcsh.espol.edu.ec/contactos)*
 
