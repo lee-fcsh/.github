@@ -39,7 +39,9 @@ This project is licensed under the License - see the LICENSE.md file for details
 
 ### Some examples of sessions at Otree
 * My Public Goods
-![Player 1](https://github.com/lee-fcsh/.github/blob/borradorReadme/profile/img/mypublicgood1.png)
+![Player 1]([https://github.com/lee-fcsh/.github/blob/borradorReadme/profile/img/mypublicgood1.png](https://github.com/lee-fcsh/.github/blob/main/profile/img/mypublic2.png))
+
+
 ![Player 2](https://github.com/lee-fcsh/.github/blob/borradorReadme/profile/img/mypublic2.png)
 ![Player 3](https://github.com/lee-fcsh/.github/blob/borradorReadme/profile/img/mypublic3.png)
 ![Results](https://github.com/lee-fcsh/.github/blob/borradorReadme/profile/img/resultsr.png)
