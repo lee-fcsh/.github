@@ -10,8 +10,9 @@
 *The tools used are:*
 | Technologies | Version | Description |
 | --- | --- | --- |
-| [oTree](https://otree.readthedocs.io/en/latest/index.html) | `5.8.2`| The web framework used for the development of economics experiments |
-| [Python](https://www.python.org/) | `3.9.6`| Dependency manager. |
+| [oTree](https://otree.readthedocs.io/en/latest/index.html) | `5.8.4`| The web framework used for the development of economics experiments |
+| [Python](https://www.python.org/) | `3.10.5`| Dependency manager. |
+| [PostgreSQL](https://www.postgresql.org/)  | `14.3` |Management system relational database. |
 | [Pylint](https://pylint.pycqa.org/en/latest/) | no matter | A static code analyser. |
 | [Heroku](https://www.heroku.com/) | no matter |Cloud to deply the server. |
 | [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScrip)  | no matter |Language for web calculations or simple processes. |
