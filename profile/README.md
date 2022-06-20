@@ -37,9 +37,5 @@ This project is licensed under the License - see the LICENSE.md file for details
 * We recommend a cup of coffee :coffee:
 * etc
 
-### Some examples of sessions at Otree
-* My Public Goods
-![Player 1](https://github.com/lee-fcsh/.github/blob/main/profile/img/mypublicgood1.png)
-![Player 2](https://github.com/lee-fcsh/.github/blob/main/profile/img/mypublic2.png)
-![Player 3](https://github.com/lee-fcsh/.github/blob/main/profile/img/mypublic3.png)
-![Results](https://github.com/lee-fcsh/.github/blob/main/profile/img/resultsr.png)
+### Sessions in LEE
+![LEE](http://lee.fcsh.espol.edu.ec/sites/all/themes/venture_theme/images/slide-image-1.jpg)
