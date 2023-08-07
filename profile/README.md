@@ -19,7 +19,7 @@
 ## LEE representatives :handshake:
 
 * :woman_office_worker: Director: **Lauren A. Rhodes** - *Ph.D.* - [email](rhodes@espol.edu.ec)
-* :man_office_worker: Coordinator: **José Luis Vázquez de Castro** - *M.Sc.* - [email](jvazquez@espol.edu.ec)
+* :man_office_worker: Coordinator: **Jesús Figueroa Zambrano** - *Econ.* - [email](jefefigu@espol.edu.ec)
 
 ## Contributors :star2:
 
@@ -27,6 +27,9 @@
 * :woman_technologist: **Tatiana Yepez Vera** - *junior developer* - [tati-18](https://github.com/tati-18)
 * :technologist: **Manuel Loor Macías** - *junior developer* - [maalloor](https://github.com/maalloor)
 * :technologist: **Tommy Villagómez Borja** - *junior developer* - [Tvillago](https://github.com/Tvillago)
+* :technologist: **Bryan Vargas Ortiz** - *junior developer* - [VargasBryan](https://github.com/VargasBryan)
+* :technologist: **John Rodriguez Rivas** - *junior developer* - [Aimajoke](https://github.com/Aimajoke)
+* :technologist: **Miguel Parra Franco** - *junior developer* - [miguelparra99](https://github.com/miguelparra99)
 
 ## Licencia :page\_facing\_up:
 This project is licensed under the License - see the LICENSE.md file for details
