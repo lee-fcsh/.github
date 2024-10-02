@@ -18,8 +18,8 @@
 
 ## LEE representatives :handshake:
 
-* :woman_office_worker: Director: **Lauren A. Rhodes** - *Ph.D.* - [email](rhodes@espol.edu.ec)
-* :man_office_worker: Coordinator: **Jesús Figueroa Zambrano** - *Econ.* - [email](jefefigu@espol.edu.ec)
+* :man_office_worker: Director: **José Gabriel Castillo** - *Ph.D.* - [email](jcastil@espol.edu.ec)
+* :woman_office_worker: Coordinator: **Katiuska Borja Jordan** - *Econ.* - [email](kuborja@espol.edu.ec)
 
 ## Contributors :star2:
 
@@ -30,6 +30,8 @@
 * :technologist: **Bryan Vargas Ortiz** - *junior developer* - [VargasBryan](https://github.com/VargasBryan)
 * :technologist: **John Rodriguez Rivas** - *junior developer* - [Aimajoke](https://github.com/Aimajoke)
 * :technologist: **Miguel Parra Franco** - *junior developer* - [miguelparra99](https://github.com/miguelparra99)
+* :technologist: **Javier Rodriguez Rivas** - *junior developer* - [jajorodr](https://github.com/javierkiu)
+
 
 ## Licencia :page\_facing\_up:
 This project is licensed under the License - see the LICENSE.md file for details
