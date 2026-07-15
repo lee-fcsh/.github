@@ -31,6 +31,7 @@
 * :technologist: **John Rodriguez Rivas** - *junior developer* - [Aimajoke](https://github.com/Aimajoke)
 * :technologist: **Miguel Parra Franco** - *junior developer* - [miguelparra99](https://github.com/miguelparra99)
 * :technologist: **Javier Rodriguez Rivas** - *junior developer* - [jajorodr](https://github.com/javierkiu)
+* :technologist: **Angel Zambrano Goodman** - *junior developer* - [anzagood1](https://github.com/anzagood1)
 
 
 ## Licencia :page\_facing\_up:
